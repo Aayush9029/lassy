@@ -1,0 +1,86 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  background-color: #222025;
+  overflow: hidden;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+  color: rgb(130, 180, 255);
+}
+
+.holder {
+  padding: 0px 10vw;
+}
+h2 {
+  color: rgb(13, 211, 211);
+  font-size: medium;
+  padding-right: 100px;
+  padding-left: 100px;
+}
+h3 {
+  color: rgba(255, 255, 255, 0.75);
+  padding-top: 10px;
+  padding-right: 100px;
+  padding-left: 100px;
+  font-weight: 100;
+}
+h1 {
+  color: rgba(255, 255, 255, 0.856);
+  padding-top: 50px;
+  padding-right: 100px;
+  padding-left: 100px;
+}
+
+.first {
+  -webkit-transition: box-shadow 300ms ease-in-out, color 300ms ease-in-out;
+  transition: box-shadow 300ms ease-in-out, color 300ms ease-in-out;
+}
+.first:hover {
+  box-shadow: 0 0 40px 40px #e73ca0 inset;
+}
+
+.btn {
+  /* box-sizing: border-box; */
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background-color: transparent;
+  border: 2px solid #e73cc2;
+  border-radius: 0.6em;
+  color: #e73cd9;
+  /* margin: 100px; */
+  cursor: pointer;
+  align-self: center;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1;
+  padding: 1.2em 2.8em;
+  text-decoration: none;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+}
+.btn:hover,
+.btn:focus {
+  color: #fff;
+  outline: 0;
+}
+.gameButton {
+  display: flex;
+  align-content: center;
+  align-self: center;
+  text-align: center;
+  padding-left: 100px;
+  padding-top: 25px;
+}
+
+.red {
+  color: rgb(247, 177, 253);
+  display: inline;
+}
