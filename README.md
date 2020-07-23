@@ -1,4 +1,4 @@
-# lassy
+# [lassy](https://aayush9029.github.io/lassy/)
 Now you can pet the legendary Lassy, a project for Yorku.
 
 > ### How did i make this in an hour?
@@ -20,3 +20,4 @@ Now you can pet the legendary Lassy, a project for Yorku.
 > <img src="https://raw.githubusercontent.com/Aayush9029/lassy/gh-pages/readme/gif_demo.gif" width="350px">
 >
 
+[TRY IT OUT](https://aayush9029.github.io/lassy/)
