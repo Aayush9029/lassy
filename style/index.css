@@ -84,3 +84,7 @@ h1 {
   color: rgb(247, 177, 253);
   display: inline;
 }
+
+.spacing {
+  padding: 25px;
+}
