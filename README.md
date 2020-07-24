@@ -13,7 +13,7 @@ Now you can pet the legendary Lassy, a project for Yorku.
 > - Exit VIM
 > <img src="https://raw.githubusercontent.com/Aayush9029/lassy/gh-pages/readme/exitvim.png"/>
 >
-> - git add .; git push; git commit -m "done"
+> - git add .;git commit -m "done"; git push; 
 >
 > profit
 >
